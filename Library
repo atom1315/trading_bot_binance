@@ -1,0 +1,5 @@
+pip install requests # Biblioteka delaet zapros na binance
+pip install numpy  # Biblioteka raboti s masivami
+pip install ta-lib # Biblioteka technicheskih indikatorov
+pip install python-binance # Biblioteka raboti s binance na python
+
